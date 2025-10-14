@@ -1,2 +1,3 @@
 # NSM-loader
-userscript for khan academy 
+# Userscript for khan academy 
+# Credit:Khanware and Khan Tool

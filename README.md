@@ -15,4 +15,4 @@
 ---
 
 ## Install NSM Loader
- [**INSTALL HIEUKAV**](https://github.com/Nguoibianhz/HieuKAV/raw/refs/heads/main/HieuKAV.user.js)
+ [**Install Here**](https://raw.githubusercontent.com/NamSomain/NSM-loader/main/pewpew.user.js)
